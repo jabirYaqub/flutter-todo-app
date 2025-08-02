@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [[https://github.com/](https://github.com/)[jabirYaqub]/[flutter-todo-app].git](https://github.com/jabirYaqub/flutter-todo-app.git)
+    git clone https://github.com/jabirYaqub/flutter-todo-app.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
