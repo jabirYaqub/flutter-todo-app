@@ -5,7 +5,11 @@ A complete TODO list application built with Flutter.
 ## Description
 This is a feature-rich and user-friendly TODO app designed to help you manage your daily tasks efficiently. The app provides a clean and modern user interface, allowing for seamless task management with reliable local data persistence.
 
-<img width="170" height="367" alt="todo_app_1" src="https://github.com/user-attachments/assets/3e61f4f4-d6eb-408e-918e-f82747309e94" />     <img width="173" height="365" alt="image" src="https://github.com/user-attachments/assets/d9594be3-965a-476c-a0be-4d786f23f717" />
+<img width="170" height="367" alt="todo_app_1" src="https://github.com/user-attachments/assets/3e61f4f4-d6eb-408e-918e-f82747309e94" />     <img width="173" height="365" alt="image" src="https://github.com/user-attachments/assets/d9594be3-965a-476c-a0be-4d786f23f717" /> <img width="168" height="374" alt="image" src="https://github.com/user-attachments/assets/0bcac003-ac6b-4383-99d2-aa5e13194425" /> <img width="172" height="368" alt="image" src="https://github.com/user-attachments/assets/d45d76c1-300f-4c5e-9fd8-bcde34cbde81" /><img width="169" height="367" alt="image" src="https://github.com/user-attachments/assets/a1200252-02c9-42b2-bc93-db264a5fb43d" /><img width="170" height="368" alt="image" src="https://github.com/user-attachments/assets/0ca3a22e-c8b2-46a5-9dbf-ded9328a169d" />
+
+
+
+
 
 
 
