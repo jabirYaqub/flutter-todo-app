@@ -2,7 +2,8 @@
 
 A complete TODO list application built with Flutter.
 
-![App Screenshot](assets/screenshot.gif) ## Description
+![App Screenshot](assets/screenshot.gif)
+## Description
 This is a feature-rich and user-friendly TODO app designed to help you manage your daily tasks efficiently. The app provides a clean and modern user interface, allowing for seamless task management with reliable local data persistence.
 
 ## Features
