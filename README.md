@@ -49,4 +49,4 @@ The project follows a clean architecture to separate concerns:
 - `lib/widgets`: Contains reusable UI components (e.g., `TaskItem`).
 
 ## Author
-- Jabir Bin Yaqub - [Your GitHub Profile URL]
+- Jabir Bin Yaqub - https://github.com/jabirYaqub
